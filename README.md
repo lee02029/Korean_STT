@@ -1,3 +1,12 @@
+# Intro
+- 한국어 AI 경진대회 네이버 CLOVA : 주요 영역별 회의 음성인식 성능향상입니다.
+
+# 사용 모델
+- Deep Speech2
+- 코드 링크 : https://github.com/SeanNaren/deepspeech.pytorch
+- 논문 링크 : ttps://arxiv.org/abs/1512.02595
+- 설명 링크 : https://haru0229.tistory.com/60
+
 # Dataset
 ### Dataset Name
 `TRACK1 - 자유대화` : `t1-free`  
@@ -38,6 +47,7 @@
   - `trainer.py`: 학습 관련
   - `utils.py` : 기타 설정 및 필요 함수
   - `vocab.py` : Vocabulary Class 파일
+
 
 ## 실행 방법
 ```bash
