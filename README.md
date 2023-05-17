@@ -4,7 +4,7 @@
 # 사용 모델
 - Deep Speech2
 - 코드 링크 : https://github.com/SeanNaren/deepspeech.pytorch
-- 논문 링크 : ttps://arxiv.org/abs/1512.02595
+- 논문 링크 : https://arxiv.org/abs/1512.02595
 - 설명 링크 : https://haru0229.tistory.com/60
 
 # Dataset
